@@ -1,6 +1,6 @@
 # 💫 About Me:
 "Hi there, I'm Leman! I'm a full stack developer with a passion for building innovative and dynamic web applications." <br>
-  <img align ="right" alt="Coding" width="400" src=https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562/>
+  <img align ="right" alt="Coding" width="350" src=https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zzleman) 
