@@ -45,14 +45,14 @@
 # Github Stats
 
  <br />
- 
-<p align="center">
+ <!-- <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/zzleman/zzleman/blob/main/Bird%20Wing%20Left.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=zzleman&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="zzleman" />
     <img heigth="160" width="182" src="https://github.com/zzleman/zzleman/blob/main/Bird%20Wing%20Right.png">
   </a>
 </p>
+-->
 
   
 
