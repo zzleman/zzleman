@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 📫 How to reach me **leman_zeynalli04@hotmail.com**
+- 📫 How to reach me **lemanzeynalli67@gmail.com**
 - 👨‍💻 All of my projects are available at **[zzleman](https://github.com/zzleman)**
 
 
