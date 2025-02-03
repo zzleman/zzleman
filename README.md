@@ -3,7 +3,7 @@
   <h3 align="center">&nbsp; A passionate Frontend developer from Azerbaijan</h3>
  <br />
  <a href="https://github.com/zzleman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Leman+Zeynalli+%e2%9c%a8;%f0%9f%93%9a+Web+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DABF7&center=true&vCenter=true&width=435&lines=%F0%9F%95%B8+Leman+Zeynalli+%F0%9F%95%B8;%F0%9F%93%9A+Frontend+Developer++%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
  </a>
 </div>
 
