@@ -1,6 +1,6 @@
 <div align="center">
  <h2> Hi 👋, I'm Leman</h2>
-  <h3 align="center">&nbsp; A passionate Frontend developer from Azerbaijan</h3>
+  <h3 align="center">&nbsp; A passionate Software Developer from Azerbaijan</h3>
  <br />
 
  <a href="https://github.com/zzleman"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7DABF7&center=true&vCenter=true&width=435&lines=%F0%9F%95%B8+Leman+Zeynalli+%F0%9F%95%B8;%F0%9F%93%9A+Frontend+Developer++%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" /></a>
